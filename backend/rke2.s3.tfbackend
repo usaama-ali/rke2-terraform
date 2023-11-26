@@ -1,0 +1,3 @@
+bucket     = "terraform-state-rke2-usama"
+key        = "terraform.tfstate"
+region     = "us-east-1"
